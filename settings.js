@@ -3,23 +3,23 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923192173398"
-global.ownername = "🐛 MR WASI "
+global.ownernomer = "221773960153"
+global.ownername = "🐛 MR ㄖㄩ丂爪卂几乇 "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
-global.location = "Pakistan, Lahore"
+global.location = "SENEGAL, Dakar"
 
-global.ownernumber = '923347748038'  //creator number
-global.ownername = ' MR WASI ' //owner name
+global.ownernumber = '221773960153'  //creator number
+global.ownername = ' MR ㄖㄩ丂爪卂几乇 ' //owner name
 global.botname = 'WASI TECH BUG BOT ' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
-global.author = 'WASI'
+global.packname = '𝕆𝕦𝕫𝕚-𝕊𝕦𝕕𝕠'
+global.author = '𝕺𝖚𝖟𝖎-𝕾𝖚𝖉𝖔'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "WASI TECH"
+global.wm = "𝕺𝖚𝖟𝖎-𝕾𝖚𝖉𝖔"
 
 //theme link
 global.link = 'https://whatsapp.com'
@@ -34,7 +34,7 @@ global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = true //auto view status/story
+global.autoswview = false //auto view status/story
 
 //menu type 
 //v1 is image menu, 
